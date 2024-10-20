@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @On1onss
+- 👋 Hi, I’m `beresta`
 - 👀 I’m interested in Information Security
-- 🌱 I’m currently learning python, rust..
+- 🌱 I’m currently studying python and other programming languages, as well as web security.
 - 📫 How to reach me TG: @Bb0LP
 
 <!---
