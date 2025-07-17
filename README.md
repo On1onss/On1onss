@@ -7,8 +7,11 @@
 On1onss/On1onss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![codewars](https://www.codewars.com/users/beresta/badges/large)](https://www.codewars.com/users/beresta)&emsp;&emsp;&emsp;&emsp;&emsp;![Visitor Count](https://profile-counter.glitch.me/On1onss/count.svg)
+[![codewars](https://www.codewars.com/users/beresta/badges/large)](https://www.codewars.com/users/beresta)&emsp;&emsp;&emsp;&emsp;&emsp;
 
+<!---
+![Visitor Count](https://profile-counter.glitch.me/On1onss/count.svg)
+--->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/On1onss/On1onss/output/github-contribution-grid-snake-dark.svg" />
 
 
