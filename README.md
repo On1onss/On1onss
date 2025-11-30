@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On1onss&layout=compact&theme=radical&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On1onss&layout=compact&theme=radical&card_width=320)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/beresta?theme=dark&font=Cambo&ext=activity&width=470&height=100)--->
+
